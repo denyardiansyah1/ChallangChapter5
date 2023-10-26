@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626669960508",
+    "project_id": "challangchapter5",
+    "storage_bucket": "challangchapter5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626669960508:android:f90aa1a513f017b5897239",
+        "android_client_info": {
+          "package_name": "com.example.challangchapter5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfpNRB89B73ewBU09mABTyA8SySRK3iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
